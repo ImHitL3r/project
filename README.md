@@ -8,13 +8,12 @@
 
 ## Screenshots
 <p float="left">
-<p style="display: flex; gap: 0;">
 <img src="Screenshots/1_WelcomeScreen.png"  width="150"/>
 <img src="Screenshots/2_Menu.png"  width="150"/>
 <img src="Screenshots/3_Info.png"  width="150"/>
 <img src="Screenshots/4_ViewIn3D.png"  width="150"/>
 <img src="Screenshots/5_ViewInAR.png"  width="150"/>
 </p>
-</p>
 
-## 
+## Video
+<img src="Screenshots/TeachARVideo.gif"  width="250"/>
