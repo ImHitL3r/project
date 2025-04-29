@@ -38,5 +38,7 @@
  - GPU: OpenGL ES Versions: 3.0 or 3.2 
  - Camera: Depth API Support 
  - Sensor: Time-F-Flight (Tof) Hardware Depth Sensor
- - Display: Multiple GPU Texture Resolutions - 1080p, 720p, 480p 
+ - Display: Multiple GPU Texture Resolutions - 1080p, 720p, 480p
+
+
 
