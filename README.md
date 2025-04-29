@@ -16,4 +16,4 @@
 </p>
 
 ## Video
-<img src="Screenshots/TeachARVideo.gif"  width="450"/>
+<img src="Screenshots/TeachARVideo.gif"  width="550"/>
