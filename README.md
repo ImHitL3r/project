@@ -10,7 +10,7 @@
 ## Screenshots
 
 ### Welcome Screen
-<img src="Screenshots/1_WelcomeScreen.png"  width="100"/>
+<img src="Screenshots/1_WelcomeScreen.png"  width="150"/>
 
 ### 3D Content Menu
 ![3D Content Menu](./images/2_Menu.png)
